@@ -412,7 +412,7 @@ however, costs gas and generates a receipt. Make a copy of this receipt for subm
 
 ```    
 7) Exit the console (ctrl-D) and examine the directory named test. It contains a file named
-metacoin.js that is provided as part of the truffle box. Look over the javascript codse and
+metacoin.js that is provided as part of the truffle box. Look over the javascript code and
 compare it with the code we entered above in the console.
 
 8) From the project directory, execute the test code by running:
