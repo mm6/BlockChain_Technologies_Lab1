@@ -217,7 +217,7 @@ the directory structure required by the application.
 ```
       receipt
 ```
-   m. Check the balance on account[0]. Should be 99591514500000000000.
+   m. Check the balance on account[0]. This value should be about 99591514500000000000.
 
   ```
       web3.eth.getBalance(web3.eth.accounts[0]).toNumber();
